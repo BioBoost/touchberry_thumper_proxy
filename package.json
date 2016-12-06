@@ -1,0 +1,26 @@
+{
+  "name": "touchberry_thumper_proxy",
+  "version": "0.1.0-alpha",
+  "description": "Thumper Control RESTful request forwarder",
+  "main": "proxy.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thumper",
+    "i2c",
+    "node",
+    "rest",
+    "neopixel",
+    "raspberry",
+    "pi",
+    "touchberry"
+  ],
+  "author": "Nico De Witte",
+  "license": "Apache-2.0"
+}
