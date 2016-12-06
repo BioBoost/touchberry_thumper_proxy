@@ -4,6 +4,12 @@ Simple NodeJs app that proxies REST commands send to the local machine to the RE
 
 The machine running the proxy should both be connected to the LAN and Wireless Access Point of the Thumper.
 
+## First time
+
+To install all the required modules just execute an `npm install` command inside the project dir.
+
+## Running the script
+
 Running the script can be done using the following command:
 
 ```shell
